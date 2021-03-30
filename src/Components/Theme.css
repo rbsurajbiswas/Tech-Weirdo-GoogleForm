@@ -10,8 +10,8 @@
     margin: 15px 0 2px 0;
     font-size: 12pt;
     padding: 5px 0;
-    background-color: #282c34;
-    color: white;
+    background-color: #fff;
+    color: #282c34;
 }
 .txt:focus {
 	outline: none;
@@ -70,7 +70,7 @@
 
 .select-edit {
 	position: relative;
-    background-color: #282c34;
+    background-color: #fff;
     border: solid #7878c1 1px;
     margin: 20px 0;
     border-width: 0 0 2px 0;
@@ -95,7 +95,7 @@
     font-size: 12px;
     border: none;
 }
-.select-edit select {top:0px; left:0; font-size:14px; border:none; width: 100%; margin:0; background-color: #282c34; color: white;}
+.select-edit select {top:0px; left:0; font-size:14px; border:none; width: 100%; margin:0; background-color: #fff; color: #282c34;}
 .select-edit input {position:absolute; top:0px; left:0; width:100%; padding:1px; font-size:12px; border:none;}
 .select-edit select:focus, .select-edit input:focus {outline:none;}
 

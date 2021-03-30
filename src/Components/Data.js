@@ -17,7 +17,7 @@ const Data = (props) => {
                     if (i.fieldtype == 'text') return (<Text fieldinfo={i} valueChange={props.valueChange} />)
                     else if (i.fieldtype == 'select') return (<Select fieldinfo={i} valueChange={props.valueChange} />)
                     })}
-                <button onClick={props.submit}>SUBMIT</button>
+                <button onClick={props.submit} >SUBMIT</button>
             </div>
             <div style={msgStyle}>
                 Your Response Saved!
