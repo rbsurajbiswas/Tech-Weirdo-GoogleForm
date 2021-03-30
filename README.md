@@ -1,6 +1,6 @@
 # Google Forms clone 
 
-This project was created by Suraj Biswas. I have created this project as an assignment  on React Js and MongoDb.
+This project was created by Suraj Biswas. I have created this project as an assignment of TechWeirdo on React Js and MongoDb.
 
 ## How to Install and run
 1. Download the Project in Zip format(Tech-Weirdo-GoogleForm-master)
